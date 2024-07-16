@@ -8,4 +8,4 @@ Scope of problem- offers a solution by enabling users to find mental health prof
 
 Technology used -
 
-Node.js , MongoDB, Mongoose ,Javascript ,Css3, Tailwind ,css, HTML5
+Node.js , MongoDB, Mongoose ,HTML5 ,Javascript , Tailwind ,CSS 
